@@ -4,11 +4,13 @@
 - Upgrade to Java 11
 - Build new installers for Windows, Linux and Mac OS X
 - Single instance support for the launcher
+- No need anymore to configure the memory amount for image processing
 - Fix Java Advanced Imaging issues with Java 11
 - Add new look and feels ([Radiance Substance](https://github.com/kirill-grouchnikov/radiance))
 - Use xml to store all the files (persistence of project, classes editor...). Not compliant with previous projects files.
 - Fix issue with dark look and feels
 - Support of HiDPI monitors
+- Update help
 
 ## v1.2.7
 
