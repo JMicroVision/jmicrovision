@@ -26,3 +26,6 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 10 64-bit]
  - JMicroVision Version [e.g. 1.3.1]
+
+**Traces**
+Attach the error messages of the file located in the user directory of JMicroVision : ${user.home}./jmicrovision/jmvision-0.log.0
