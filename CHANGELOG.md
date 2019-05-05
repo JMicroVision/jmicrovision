@@ -12,13 +12,13 @@
 - Support of HiDPI monitors
 - Update help
 
-## v1.2.7
+## v1.2.7 (2008-03-01)
 
 - Fixed issues: 29 and 47
 - Update Java Virtual Machine
 - Other minor bugs fixed
 
-## v1.2.5
+## v1.2.5 (2007-01-08)
 
 - Fixed issues: 22, 40 to 46
 - Supports Java 1.6 and Windows Vista
@@ -30,7 +30,7 @@
 - Online help has been actualized
 - Other minor bugs fixed
 
-## v1.2.2
+## v1.2.2 (2006-06-15)
 
 - Fixed issues: 29 to 39 (see http://www.jmicrovision.com/mantis/)
 - Spatial Calibration: Custom calibration, shift the image origin, change the Y axis direction
@@ -47,13 +47,13 @@
 - Custom filters and templates are recovered from the last installed version.
 - Background: get real surface
 - Plugins: Create your own image processing functions
-- Error messages of JMicroVision sent to the file “erroLog.txt”
+- Error messages of JMicroVision sent to the file "erroLog.txt"
 - Native launcher for Windows, Linux and Solaris (resolves the JRE path and the JRE parameters)
 - File association (*.jmv) on Windows
 - Online help has been actualized
 
 
-## v1.2.0
+## v1.2.0 (2006-03-12)
 
 - Fixed issues: 21, 23, 24, 25, 26, 27 and 28 (see http://www.jmicrovision.com/mantis/)
 - Improvement of the image visualization system
@@ -91,7 +91,7 @@
 - Calibration module improvement
 - Find automatically the images linked to the project when they are in the same directory (if files have been moved)
 
-## v1.1.1
+## v1.1.1 (2005-06-22)
 
 - Fixed issues: 4, 16, 17, 19 and 20 (see http://www.jmicrovision.com/mantis/)
 - Complete online help
@@ -103,7 +103,7 @@
 - Read 16 and 32 bits per channel images (converted in 8 bits/channel)
 - Fixed some minors bugs
 
-## v1.1.0
+## v1.1.0 (2005-01-04)
 
 - Online help (not complete)
 - Java runtime 1.5 included
@@ -121,7 +121,7 @@
 - Vertical Profile (shows the vertical variation of granulometry, objects or background)
 - Image Factory (uses several operators, e.g. median filter to reduce noise of an image
 
-## v1.0.1
+## v1.0.1 (2004-12-06)
 
 - Resolved issues: 2, 3, 5, 7, 8, 9 ,12, 13, 14 and 15 (see http://www.jmicrovision.com/mantis/)
 - Some other minor bugs resolved (in Classification and Point Counting)
@@ -130,6 +130,6 @@
 - New installer (Installshield X multiplatform)
 - Start JMicroVision with or without the console
 
-## v1.00 Beta - 15th June 2004
+## v1.00 Beta (2004-06-15)
 
 - First public release on the Internet
