@@ -10,7 +10,10 @@
 - Use xml to store all the files (persistence of project, classes editor...). Not compliant with previous projects files.
 - Fix issue with dark look and feels
 - Support of HiDPI monitors
-- Update help
+- Update help (only online web help) 
+- Ouput logging in console and in rolling files 
+- Adapt main window icon
+- Change license
 
 ## v1.2.7 (2008-03-01)
 
