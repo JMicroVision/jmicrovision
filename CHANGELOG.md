@@ -1,15 +1,16 @@
 # Changelog
 
-## v1.3.1
-- Upgrade to Java 11
-- Build new installers for Windows, Linux and Mac OS X
+## v1.3.1 (2019-05-11)
+- Upgrade to Java 13
+- New installers for Windows, Linux and Mac OS X
 - Single instance support for the launcher
 - No need anymore to configure the memory amount for image processing
 - Fix Java Advanced Imaging issues with Java 11
-- Add new look and feels ([Radiance Substance](https://github.com/kirill-grouchnikov/radiance))
+- Add new look and feels ([Radiance Substance](https://github.com/kirill-grouchnikov/radiance)) (included dark themes)
 - Use xml to store all the files (persistence of project, classes editor...). Not compliant with previous projects files.
+- Associate .jmv files with JMicroVision
 - Fix issue with dark look and feels
-- Support of HiDPI monitors
+- Support of HiDPI monitors and scaling from system
 - Update help (only online web help) 
 - Ouput logging in console and in rolling files 
 - Adapt main window icon
