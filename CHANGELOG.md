@@ -1,4 +1,12 @@
 # Changelog
+## v1.3.2 (2019-011-03)
+- Fix Export at project level doesn't work #2
+- Fix progress status issue
+- Fix convert to tiled TIFF
+- Upgrade to Java 14
+- Update Substance to 2.5
+- Sign Windows installer
+- Sign and notarizing (for 10.15) Mac installer
 
 ## v1.3.1 (2019-05-11)
 - Upgrade to Java 13
