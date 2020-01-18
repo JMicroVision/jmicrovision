@@ -1,5 +1,11 @@
 # Changelog
-## v1.3.2 (2019-011-03)
+
+## v1.3.3 (2020-01-18)
+- Fix v1.3.2 Saved project cannot be re-opened. #3
+- Fix Cannot reopen counting without grid #4
+- Fix Point counting area limitation: rectangle always has top left corner at top left of image? #5
+
+## v1.3.2 (2019-11-03)
 - Fix Export at project level doesn't work #2
 - Fix progress status issue
 - Fix convert to tiled TIFF
