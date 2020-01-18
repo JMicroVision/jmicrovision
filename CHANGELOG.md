@@ -4,6 +4,7 @@
 - Fix v1.3.2 Saved project cannot be re-opened. #3
 - Fix Cannot reopen counting without grid #4
 - Fix Point counting area limitation: rectangle always has top left corner at top left of image? #5
+- Update Substance library (new Look and Feels)
 
 ## v1.3.2 (2019-11-03)
 - Fix Export at project level doesn't work #2
