@@ -1,5 +1,14 @@
 # Changelog
 
+
+## v1.3.4 (2020-12-23)
+- Fix application hangs when saving image with transparency
+- Fix popup image optimization hangs (conversion to tiled TIFF)
+- Sign and notarize mac package
+- Sign windows installer
+- Update jpeg lib
+- Update to jdk 17.0.0-ea.2
+
 ## v1.3.3 (2020-01-18)
 - Fix v1.3.2 Saved project cannot be re-opened. #3
 - Fix Cannot reopen counting without grid #4
