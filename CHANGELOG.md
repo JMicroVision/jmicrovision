@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.3.5 (2025-01-18)
+- Change UI framework to Flatlaf
+- Fix loading old project file
+- Fix cannot launch JVM
+- Fix minor issues
+- Update to JDK to 21
 
 ## v1.3.4 (2020-12-23)
 - Fix application hangs when saving image with transparency
